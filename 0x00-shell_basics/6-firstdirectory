@@ -1,5 +1,2 @@
 #!/bin/bash
-mkdir/tmp/alx
-
-
-
+mmkdir /tmp/alx
